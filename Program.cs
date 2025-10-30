@@ -220,3 +220,6 @@ public record Category
 // Update = Update a Category => PUT :/api/categories
 
 // Delete = Delete a Category => Delete :/api/categories
+
+
+// complit CRUD Operation with FromQuery, FromBody, CategoryName, Guid and etc. 
